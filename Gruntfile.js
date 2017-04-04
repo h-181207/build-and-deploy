@@ -29,6 +29,8 @@ module.exports = function (grunt) {
     }
   };
 
+
+
   var uglifyConfig = {
     default: {
       files: {
